@@ -1,1 +1,1 @@
-Linear Regression using Normal Equation
+Supervised Learning
