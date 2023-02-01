@@ -9,5 +9,5 @@ This k-Nearest Neighbors tutorial is broken down into 3 parts:
           * Step 2: Get Nearest Neighbors.
           * Step 3: Make Predictions.
 These steps will teach you the fundamentals of implementing and applying the k-Nearest Neighbors algorithm for classification and regression predictive modeling problems.
-### * Goolge Slides -  [Click Here]() &#x1F535;
+### * Goolge Slides -  [Click Here](https://docs.google.com/presentation/d/18hqFhOUNZ04y66d5_aH4C7SDMGJMODKCq3-z-ZhpN-w/edit?usp=sharing) &#x1F535;
 
